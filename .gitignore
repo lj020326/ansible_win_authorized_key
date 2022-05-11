@@ -1,2 +1,10 @@
-/.vscode
-/.vscode/*
+.rsync/
+.idea/
+.vscode/
+venv/
+save/
+.DS_Store
+
+*~
+*.log
+id_rsa
